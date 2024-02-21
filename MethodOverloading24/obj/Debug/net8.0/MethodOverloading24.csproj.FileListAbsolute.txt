@@ -1,0 +1,14 @@
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.AssemblyInfoInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.AssemblyInfo.cs
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.csproj.CoreCompileInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\bin\Debug\net8.0\MethodOverloading24.exe
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\bin\Debug\net8.0\MethodOverloading24.deps.json
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\bin\Debug\net8.0\MethodOverloading24.runtimeconfig.json
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\bin\Debug\net8.0\MethodOverloading24.dll
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\bin\Debug\net8.0\MethodOverloading24.pdb
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.dll
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\refint\MethodOverloading24.dll
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.pdb
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\MethodOverloading24.genruntimeconfig.cache
+C:\Users\tricu\OneDrive\Desktop\repos\MethodOverloading24\MethodOverloading24\obj\Debug\net8.0\ref\MethodOverloading24.dll
